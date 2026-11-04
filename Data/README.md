@@ -2,7 +2,7 @@
 
 The analysis relies on environmental suitability datasets, a compilation of marine alien species observations, and external environmental and geographical datasets.
 
-1. Future suitability projections (ds)
+### 1. Future suitability projections (ds)
 
 The variable ds refers to the future environmental suitability dataset used to generate the figures. It is an xarray.Dataset containing the projected suitability values under one of the following climate scenarios:
 
@@ -12,11 +12,11 @@ SSP5-8.5 (ssp585)
 
 The corresponding dataset should be loaded before running the plotting functions. The exact scenario used depends on the figure being reproduced.
 
-2. Past suitability dataset (ds_past)
+### 2. Past suitability dataset (ds_past)
 
 ds_past is the historical environmental suitability dataset, provided as an xarray.Dataset. It is used to represent past suitability and, where relevant, to compare historical and future conditions.
 
-3. Marine alien species observations (Alien_data / observation_Df)
+### 3. Marine alien species observations (Alien_data / observation_Df)
 
 Alien_data (also referred to as observation_Df in the code) is the compiled dataset of marine alien species observations used in the study.
 
@@ -24,7 +24,7 @@ The dataset was obtained by standardizing and combining available sources, as de
 
 Please refer to the paper for further details on the original sources, data standardization, and filtering procedures.
 
-4. External datasets
+### 4. External datasets
 
 The analysis also uses the following external data sources:
 
