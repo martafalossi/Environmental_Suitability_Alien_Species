@@ -10,8 +10,8 @@ The study applies an XGBoost machine learning approach to evaluate present and f
 
 ## Repository contents
 
-- `figures/`: Python scripts used to reproduce the figures presented in the manuscript.
-- `data/`: Example input data, where applicable.
+- `Scripts/`: Python scripts used to reproduce the figures presented in the manuscript.
+- `Data/`: Example input data, where applicable.
 
 ## Requirements
 
