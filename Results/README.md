@@ -39,7 +39,7 @@ Spatial distribution of environmental suitability classified into four categorie
 
 The function `plot_Med_Suitability_Area_Cat()` also calculates the percentage of the valid study area occupied by each category, using cosine-of-latitude weights to approximate grid-cell area.
 
-![Environmental suitability categories](results/fig4_suitability_categories.png)
+![Environmental suitability categories](fig4_suitability_categories.png)
 
 ### Figure 5 – Baseline environmental conditions
 
