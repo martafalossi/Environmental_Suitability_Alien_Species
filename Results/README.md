@@ -10,7 +10,7 @@ Map showing the distribution of marine alien species observation records across 
 
 The quarter-circle symbols represent the number of observations recorded in each period.
 
-![Distribution of marine alien species observations](/fig1_observation_records.png)
+![Distribution of marine alien species observations](fig1_observation_records.png)
 
 ### Figure 2 – Past environmental suitability
 
