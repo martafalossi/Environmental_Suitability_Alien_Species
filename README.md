@@ -12,6 +12,7 @@ The study applies an XGBoost machine learning approach to evaluate present and f
 
 - `Scripts/`: Python scripts used to reproduce the figures presented in the manuscript.
 - `Data/`: Example input data, where applicable.
+- `Results/`: Final figures produced, examples.
 
 ## Requirements
 
