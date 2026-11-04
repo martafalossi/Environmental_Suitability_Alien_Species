@@ -26,7 +26,7 @@ Spatial distribution of the projected environmental suitability index under futu
 
 The same function can be used with different datasets to compare SSP2-4.5 and SSP5-8.5 projections, including the near-future (2025–2035), mid-century (2050–2060), and end-of-century (2085–2095) periods.
 
-![Future environmental suitability](fig3_future_suitability.png)
+![Future environmental suitability](fig3_future_suitabilit.png)
 
 ### Figure 4 – Suitability categories
 
