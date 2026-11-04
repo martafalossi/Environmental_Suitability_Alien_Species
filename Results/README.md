@@ -18,7 +18,7 @@ Spatial distribution of the environmental suitability index for a selected year 
 
 The function `Past_Med_Suitability_Observations()` allows the user to select the year and choose whether to display the observation points.
 
-![Past environmental suitability](results/fig2_past_suitability.png)
+![Past environmental suitability](fig2_past_suitability.png)
 
 ### Figure 3 – Future environmental suitability projections
 
@@ -26,7 +26,7 @@ Spatial distribution of the projected environmental suitability index under futu
 
 The same function can be used with different datasets to compare SSP2-4.5 and SSP5-8.5 projections, including the near-future (2025–2035), mid-century (2050–2060), and end-of-century (2085–2095) periods.
 
-![Future environmental suitability](results/fig3_future_suitability.png)
+![Future environmental suitability](fig3_future_suitability.png)
 
 ### Figure 4 – Suitability categories
 
@@ -47,7 +47,7 @@ Maps showing the spatial distribution of baseline environmental conditions, calc
 
 The function `plot_Baseline_Climate()` can be used to plot the different environmental variables individually, including potential temperature (`thetao`), salinity (`so`), and dissolved molecular oxygen (`o2`).
 
-![Baseline environmental conditions](results/fig5_baseline_climate.png)
+![Baseline environmental conditions](fig5_baseline_climate.png)
 
 ### Figure 6 – Projected changes in environmental conditions
 
@@ -57,4 +57,4 @@ The function `plot_Difference_Baseline_Climate()` calculates the difference betw
 
 The function also supports plotting the difference between GCM and CMEMS baseline conditions by setting `scenario=False`.
 
-![Projected changes in environmental conditions](results/fig6_future_climate_difference.png)
+![Projected changes in environmental conditions](fig6_future_climate_difference.png)
