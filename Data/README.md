@@ -16,9 +16,9 @@ The corresponding dataset should be loaded before running the plotting functions
 
 ds_past is the historical environmental suitability dataset, provided as an xarray.Dataset. It is used to represent past suitability and, where relevant, to compare historical and future conditions.
 
-### 3. Marine alien species observations (Alien_data / observation_Df)
+### 3. Marine alien species observations (Alien_data / observation_df)
 
-Alien_data (also referred to as observation_Df in the code) is the compiled dataset of marine alien species observations used in the study.
+Alien_data (also referred to as observation_df in the code) is the compiled dataset of marine alien species observations used in the study.
 
 The dataset was obtained by standardizing and combining available sources, as described in the associated scientific paper. It contains the observation records used in the analysis and plotting procedures.
 
