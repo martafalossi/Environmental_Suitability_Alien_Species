@@ -10,11 +10,11 @@ SSP2-4.5 (ssp245)
 
 SSP5-8.5 (ssp585)
 
-The corresponding dataset should be loaded before running the plotting functions. The exact scenario used depends on the figure being reproduced.
+The corresponding dataset should be loaded before running the plotting functions. The exact scenario used depends on the figure being reproduced. This dataset is available in the supplementary material within the original paper.
 
 ### 2. Past suitability dataset (ds_past)
 
-ds_past is the historical environmental suitability dataset, provided as an xarray.Dataset. It is used to represent past suitability and, where relevant, to compare historical and future conditions.
+ds_past is the historical environmental suitability dataset, provided as an xarray.Dataset. It is used to represent past suitability and, where relevant, to compare historical and future conditions. This dataset is available in the supplementary material within the original paper.
 
 ### 3. Marine alien species observations (Alien_data / observation_df)
 
@@ -22,7 +22,7 @@ Alien_data (also referred to as observation_df in the code) is the compiled data
 
 The dataset was obtained by standardizing and combining available sources, as described in the associated scientific paper. It contains the observation records used in the analysis and plotting procedures.
 
-Please refer to the paper for further details on the original sources, data standardization, and filtering procedures.
+This dataset is available in the supplementary material within the original paper. Please refer to the paper for further details on the original sources, data standardization, and filtering procedures.
 
 ### 4. External datasets
 
