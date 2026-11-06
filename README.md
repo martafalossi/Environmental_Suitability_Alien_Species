@@ -9,7 +9,7 @@ This repository contains the Python code used to generate the figures presented 
 The study applies an XGBoost machine learning approach to evaluate present and future environmental suitability for marine alien species across the Mediterranean Sea under different climate change scenarios.
 
 
-![Environmental suitability categories](Results/fig4_suitability_categories.png)
+![Environmental suitability categories](Results/fig3_future_suitabilit.png)
 
 ## Repository contents
 
